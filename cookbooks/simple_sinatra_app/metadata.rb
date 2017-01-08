@@ -1,0 +1,12 @@
+name 'simple_sinatra_app'
+maintainer 'Valter Henrique'
+maintainer_email 'valterhenrique85@gmail.com'
+license 'all_rights'
+description 'Installs/Configures a simple sinatra app'
+long_description 'Installs/Configures a simple sinatra app'
+version '0.1.0'
+
+depends 'application'
+depends 'application_ruby'
+depends 'ruby_build'
+depends 'swap'

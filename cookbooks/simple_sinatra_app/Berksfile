@@ -1,0 +1,7 @@
+source 'https://supermarket.chef.io'
+
+metadata
+cookbook 'swap', '~> 0.3.8'
+cookbook 'ruby_build', '~> 1.0.0'
+cookbook 'application', '~> 5.1.0'
+cookbook 'application_ruby', '~> 4.0.1'
